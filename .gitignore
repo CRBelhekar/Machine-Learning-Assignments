@@ -1,2 +1,38 @@
 
 data_wrangling_pandas/cast.csv
+xgboost/.ipynb_checkpoints/XGBoost_Implementation-checkpoint.ipynb
+tree-based-algorithm/Mini_Project_Tree-Based_Algorithms.html
+xgboost/notebooks/1. Introduction/1.2 Getting Rocket Off The Ground.ipynb
+xgboost/notebooks/2. Basics/2.3 Using standard interface.ipynb
+xgboost/notebooks/3. Going deeper/.ipynb_checkpoints/3.1 Spotting Most Important Features-checkpoint.ipynb
+xgboost/notebooks/3. Going deeper/.ipynb_checkpoints/3.2 Bias-variance tradeoff-checkpoint.ipynb
+xgboost/notebooks/3. Going deeper/.ipynb_checkpoints/3.3 Hyper-parameter tuning-checkpoint.ipynb
+xgboost/notebooks/3. Going deeper/.ipynb_checkpoints/3.4 Evaluate results-checkpoint.ipynb
+xgboost/notebooks/3. Going deeper/.ipynb_checkpoints/3.5 Deal with missing values-checkpoint.ipynb
+xgboost/notebooks/3. Going deeper/.ipynb_checkpoints/3.6 Handle Imbalanced Datasets-checkpoint.ipynb
+xgboost/notebooks/3. Going deeper/3.1 Spotting Most Important Features.ipynb
+xgboost/notebooks/3. Going deeper/3.2 Bias-variance tradeoff.ipynb
+xgboost/notebooks/3. Going deeper/3.3 Hyper-parameter tuning.ipynb
+xgboost/notebooks/3. Going deeper/3.4 Evaluate results.ipynb
+xgboost/notebooks/3. Going deeper/3.5 Deal with missing values.ipynb
+xgboost/notebooks/3. Going deeper/3.6 Handle Imbalanced Datasets.ipynb
+xgboost/notebooks/data/agaricus.txt.test
+xgboost/notebooks/data/agaricus.txt.train
+xgboost/notebooks/data/featmap.txt
+xgboost/notebooks/images/ada-t1.dot
+xgboost/notebooks/images/ada-t1.png
+xgboost/notebooks/images/bias-variance.png
+xgboost/notebooks/images/boosting.png
+xgboost/notebooks/images/dt.dot
+xgboost/notebooks/images/dt.png
+xgboost/notebooks/images/gbc-t1.dot
+xgboost/notebooks/images/gbc-t1.png
+xgboost/notebooks/2. Basics/2.3 Using standard interface.ipynb
+xgboost/notebooks/1. Introduction/1.2 Getting Rocket Off The Ground.ipynb
+xgboost/notebooks/images/practical_xgboost_in_python_notebook_header.png
+xgboost/notebooks/images/underfitting_overfitting.png
+tree-based-algorithm/catboost_info/catboost_training.json
+tree-based-algorithm/catboost_info/learn/events.out.tfevents
+tree-based-algorithm/catboost_info/learn_error.tsv
+tree-based-algorithm/catboost_info/time_left.tsv
+tree-based-algorithm/.ipynb_checkpoints/Mini_Project_Tree-Based_Algorithms-checkpoint.ipynb
