@@ -287,3 +287,4 @@ Ex_Files_Machine_Learning_Algorithms/Exercise Files/train_features.csv
 Ex_Files_Machine_Learning_Algorithms/Exercise Files/train_labels.csv
 Ex_Files_Machine_Learning_Algorithms/Exercise Files/val_features.csv
 Ex_Files_Machine_Learning_Algorithms/Exercise Files/val_labels.csv
+anomaly-detection/credit_card.csv
