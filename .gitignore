@@ -288,3 +288,8 @@ Ex_Files_Machine_Learning_Algorithms/Exercise Files/train_labels.csv
 Ex_Files_Machine_Learning_Algorithms/Exercise Files/val_features.csv
 Ex_Files_Machine_Learning_Algorithms/Exercise Files/val_labels.csv
 anomaly-detection/credit_card.csv
+recommendation-system/tmdb_5000_credits.csv
+recommendation-system/tmdb_5000_movies.csv
+recommendation-system/data/combined_data.csv
+recommendation-system/data/movie_titles.csv
+recommendation-system/data/movies_metadata.csv
