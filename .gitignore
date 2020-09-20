@@ -293,3 +293,21 @@ recommendation-system/tmdb_5000_movies.csv
 recommendation-system/data/combined_data.csv
 recommendation-system/data/movie_titles.csv
 recommendation-system/data/movies_metadata.csv
+anomaly-detection/.ipynb_checkpoints/anomaly-detection-checkpoint.ipynb
+anomaly-detection/.ipynb_checkpoints/Mini_Project_Anomaly_Detection-checkpoint.ipynb
+clustering/.ipynb_checkpoints/Mini_Project_Clustering-checkpoint.ipynb
+data-wrangling-pandas/.ipynb_checkpoints/Mini_Project_Data_Wrangling_Pandas-checkpoint.ipynb
+json-data-wrangling/.ipynb_checkpoints/Mini_Project_Wrangling_Json_Exercise-checkpoint.ipynb
+knn/.ipynb_checkpoints/knn-classifier-iris-checkpoint.ipynb
+knn/.ipynb_checkpoints/knn-classifier-iris-checkpoint.ipynb
+knn/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+recommendation-system/.ipynb_checkpoints/Content Based Recommendation System Movies-checkpoint.ipynb
+recommendation-system/.ipynb_checkpoints/getting-started-with-a-movie-recommendation-system-checkpoint.ipynb
+recommendation-system/.ipynb_checkpoints/Mini_Project_Recommendation_Systems-checkpoint.ipynb
+recommendation-system/.ipynb_checkpoints/Recommender Systems-checkpoint.ipynb
+recommendation-system/Movie-Recommender-in-python-master/.ipynb_checkpoints/Recommender Systems with Python-checkpoint.ipynb
+time-series-forecasting/.ipynb_checkpoints/Mini_Project_Time_Series_Forecasting-checkpoint.ipynb
+time-series-forecasting/.ipynb_checkpoints/Time_Series_Forecasting-checkpoint.ipynb
+time-series-forecasting/.ipynb_checkpoints/Time_Series_Tutorial_AirBnB-checkpoint.ipynb
+time-series-forecasting/Introduction-to-Time-Series-forecasting-Python-master/.ipynb_checkpoints/Time Series in Python-checkpoint.ipynb
+xgboost/.ipynb_checkpoints/Untitled-checkpoint.ipynb
